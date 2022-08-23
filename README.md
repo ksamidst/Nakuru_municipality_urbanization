@@ -22,7 +22,7 @@ For more information and a detailed introduction to the platform, refer to the [
 
 _______________2.) DOWNLOADING THE FILES____________________<br/>
 
-![image](https://user-images.githubusercontent.com/75077556/125576767-07d47298-d2ca-44e6-b3df-b837643adba2.png)<br/>
+![image](https://user-images.githubusercontent.com/75077556/186091882-cea46de0-0824-4f12-950e-ca60c56662d8.png)<br/>
 Click on the 'Clone' button at the top of this page, then click on 'Download ZIP', as shown in the image above. Once the zipped file is downloaded, extract the files to a location of your choice. You can open the folders to view the files. There are a number of different files in the folder; there is the script file containing the GEE code and the sub-folders containing the assets (shape files).
 
 _______________3.) INGESTING THE ASSETS/ SHAPE FILES ONTO THE GEE PLATFORM_____________<br/>
@@ -38,13 +38,13 @@ From within the project folder, open the 'nakuruscript.js' file using a text edi
 ![image](https://user-images.githubusercontent.com/75077556/125584368-d970818f-b5f8-49d7-a84e-c02744911aeb.png)<br/>
 
 _______________5.) IMPORT THE ASSETS/ SHAPE FILES INTO YOUR SCRIPT___________________<br/>
-![image](https://user-images.githubusercontent.com/75077556/125596583-ffe2719c-a354-4737-aec4-e630dea8d829.png)<br/>
+![image](https://user-images.githubusercontent.com/75077556/186093254-f576cd1e-47ee-4b26-8a5b-38d7f644f818.png)<br/>
 As shown in the image above, once your imports are in an organized fashion (import records), you will have to replace the highlighted imports with the assets you ingested in step 3 above. Name the imports with the same names in the existing imports, i.e.<br/>
 -'AOI'<br/>
 
 ![image](https://user-images.githubusercontent.com/75077556/125587500-92fe80ac-13b9-4648-8571-54accc9e1041.png)<br/>
 Use the bucket icon on the left hand side of the import, as shown in the image above, to delete the existing import. The icon appears once you hover your cursor on the left side of the imports.<br/>
-![image](https://user-images.githubusercontent.com/75077556/125588164-7a1a844b-f46d-4a6d-824e-03b0b59346c9.png)<br/>
+![image](https://user-images.githubusercontent.com/75077556/186094753-641d9350-247e-45b2-b28c-69f602cfab2e.png)<br/>
 Use the arrow icon to the right hand side of the asset you want to import into your script, to import the asset into your script, in the 'assets' tab as shown in the image above.
 
 _______________6.) RUN THE SCRIPT TO VIEW PRODUCTS____________________________________<br/>
