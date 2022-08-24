@@ -1,7 +1,7 @@
 _____________INTRODUCTION_____________<br/>
 
 This application is part of project MIDST; (Monitoring for Information and Decisions using Space Technologies) piloted by the Kenya Space Agency (KSA), in 
-collaboration with a team from other government institutions. It is part of a subproject Spatial Planning. The application allows is users to compare land cover 
+collaboration with a team from other government institutions. It is part of a subproject Spatial Planning and Urbanization. The application allows is users to compare land cover 
 classification images of the Nakuru municipality areas between the years 1989, 2000, 2010 and 2020.
 
 ______________RUNNING THE SCRIPTS______________<br/>
